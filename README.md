@@ -32,18 +32,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anikmondol&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anikmondol&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-```PHP
-```Laravel
-```javascript
-const fhMunna = {
-  pronouns: "He" | "Him",
-  languages: [PHP, Laravel, Javascript, HTML, CSS],
-  tools: [Vue.js, Pinia, Inertia.js, Livewire, Composer, Node, Tailwind, Bootstrap],
-  experiences: {
-                        team_member: "YSSE Academy",
-                        developer: "Creative Business Group",
-                        mentor: "Creative IT Institute"
-                      },
- motivation: "Experience is the name everyone gives to their mistakes – Oscar Wilde"
- fun: "Computers are fast but developers keep them slow"
-}
+
