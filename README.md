@@ -32,13 +32,18 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anikmondol&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anikmondol&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anikmondol&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=anikmondol&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```PHP
+```Laravel
+```javascript
+const fhMunna = {
+  pronouns: "He" | "Him",
+  languages: [PHP, Laravel, Javascript, HTML, CSS],
+  tools: [Vue.js, Pinia, Inertia.js, Livewire, Composer, Node, Tailwind, Bootstrap],
+  experiences: {
+                        team_member: "YSSE Academy",
+                        developer: "Creative Business Group",
+                        mentor: "Creative IT Institute"
+                      },
+ motivation: "Experience is the name everyone gives to their mistakes – Oscar Wilde"
+ fun: "Computers are fast but developers keep them slow"
+}
