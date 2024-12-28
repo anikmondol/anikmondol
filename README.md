@@ -14,11 +14,11 @@
 
 🔧 Technical Skills:
 
-Proficient in PHP (8.x+) and Laravel Framework (11.x).
-Skilled in designing RESTful APIs, authentication systems, and role-based access control.
-Strong knowledge of relational databases like MySQL.
-Hands-on experience with Frontend Tools: Html5, Css3, Javascript, TailwindCSS, jQuery and Bootstrap.
-Expertise in version control systems like Git and tools like GitHub.
+- Proficient in PHP (8.x+) and Laravel Framework (11.x).
+- Skilled in designing RESTful APIs, authentication systems, and role-based access control.
+- Strong knowledge of relational databases like MySQL.
+- Hands-on experience with Frontend Tools: Html5, Css3, Javascript, TailwindCSS, jQuery and Bootstrap.
+- Expertise in version control systems like Git and tools like GitHub.
 
 
 
